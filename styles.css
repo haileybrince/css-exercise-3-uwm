@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: #f1e7af;
+    padding: 20px;
+}
+
+.main{
+    background-color: #f39f40;
+    padding: 20px;
+}
+
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+}
+
+.footer{
+    background-color: #f6ec95;
+    padding: 20px;
+}
